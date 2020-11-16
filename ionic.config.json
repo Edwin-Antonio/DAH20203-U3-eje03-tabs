@@ -1,0 +1,7 @@
+{
+  "name": "eje03-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
