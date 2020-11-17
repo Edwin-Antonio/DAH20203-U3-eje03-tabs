@@ -15,4 +15,8 @@ export class Tab1Page {
     this.students = this.studentService.getStudents();
   }
 
+  changeStatus(position: number): void {
+    this.studentService.changeStatus(position);
+  }
+
 }
